@@ -1,9 +1,6 @@
 # Add your variables here
-def
-first_number = get_variable_from_file('../calculator.rb', "second_number")
 
-expect(first_number).to be_an(Interger).or be_a(Float)
-end
+first_number = 7
 
 
 def

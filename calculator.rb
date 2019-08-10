@@ -1,5 +1,4 @@
 # Add your variables here
-require_relative '../calculator.rb'
 do
 first_number = get_variable_from_file('./calculator.rb', "second_number")
 
